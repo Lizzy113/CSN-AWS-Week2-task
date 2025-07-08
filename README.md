@@ -27,7 +27,7 @@ This project demonstrates the setup and configuration of AWS IAM Identity Center
 Here are the screenshots demonstrating the successful completion of the task:
 
 ### 1. IAM Identity Center Instance Overview
-<img width="957" alt="IAM instance" src="https://github.com/user-attachments/assets/2fcd9ccd-91bc-48e3-a5cb-6cf138b3ebd5" />
+https://github.com/Lizzy113/CSN-AWS-Week2-task/blob/main/IAM%20instance.png
 *The screenshot shows instance name 'CSN-TASK2' , identity source, region and orgnizational ID*
 
 ### 2. Created group and User List
