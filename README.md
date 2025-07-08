@@ -40,8 +40,8 @@ Here are the screenshots demonstrating the successful completion of the task:
 
 
 
-<img width="740" alt="group showing the assign permission" src="https://github.com/user-attachments/assets/b3159dae-68a3-4a26-b88a-3e5e81b182b1" />
-<img width="957" alt="IAM instance" src="https://github.com/user-attachments/assets/471f0748-e38b-44b4-a1b2-114a0f15eb0e" />
-![Screenshot 2025-07-08 114248](https://github.com/user-attachments/assets/6775390f-35f2-4f12-98c8-fda87a90f581)
+<img width="957" alt="IAM instance" src="https://github.com/user-attachments/assets/33402a97-a8fe-408d-af95-2e3921067ce8" />
+
+
 
 
