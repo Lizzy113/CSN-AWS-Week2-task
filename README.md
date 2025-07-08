@@ -43,10 +43,5 @@ Here are the screenshots demonstrating the successful completion of the task:
 
 
 
-![Screenshot 2025-07-08 114248](https://github.com/user-attachments/assets/b098979b-2056-4d25-8e58-4241deb434d2)
-<img width="957" alt="IAM instance" src="https://github.com/user-attachments/assets/33402a97-a8fe-408d-af95-2e3921067ce8" />
-<img width="740" alt="group showing the assign permission" src="https://github.com/user-attachments/assets/9e7ea2a5-2143-4395-a17e-40a6cc0076d9" />
-
-
 
 
