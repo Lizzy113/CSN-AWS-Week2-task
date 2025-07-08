@@ -27,20 +27,25 @@ This project demonstrates the setup and configuration of AWS IAM Identity Center
 Here are the screenshots demonstrating the successful completion of the task:
 
 ### 1. IAM Identity Center Instance Overview
-https://github.com/Lizzy113/CSN-AWS-Week2-task/blob/main/IAM%20instance.png
+<img width="957" alt="IAM instance" src="https://github.com/user-attachments/assets/33402a97-a8fe-408d-af95-2e3921067ce8" />
 *The screenshot shows instance name 'CSN-TASK2' , identity source, region and orgnizational ID*
 
 ### 2. Created group and User List
-[Screenshot 2025-07-08 114248(https://github.com/user-attachments/assets/36f8175d-1642-4941-904e-0bf1eabd624b)
+![Screenshot 2025-07-08 114248](https://github.com/user-attachments/assets/b098979b-2056-4d25-8e58-4241deb434d2)
 *shows the name of the group 'csn-assignment2' the user is in clearly*
 
 ### 3. Permission Set Assignment Confirmation
-<img width="740" alt="group showing the assign permission" src="https://github.com/user-attachments/assets/41407d19-7c40-4bbe-b043-227e5c80b1dd" />
-*The screenshot confirm the group created which user'Tommy' is in, was assigned the 'SecurityAudit' for the AWS account.![Screenshot 2025-07-08 114248](https://github.com/user-attachments/assets/8c939ec3-3219-465d-878c-37243b534203)
+*The screenshot confirm the group created which user'Tommy' is in, was assigned the 'SecurityAudit' for the AWS account.
+<img width="740" alt="group showing the assign permission" src="https://github.com/user-attachments/assets/9e7ea2a5-2143-4395-a17e-40a6cc0076d9" />
 
 
 
+
+
+
+![Screenshot 2025-07-08 114248](https://github.com/user-attachments/assets/b098979b-2056-4d25-8e58-4241deb434d2)
 <img width="957" alt="IAM instance" src="https://github.com/user-attachments/assets/33402a97-a8fe-408d-af95-2e3921067ce8" />
+<img width="740" alt="group showing the assign permission" src="https://github.com/user-attachments/assets/9e7ea2a5-2143-4395-a17e-40a6cc0076d9" />
 
 
 
